@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Nely Nurcahya Safitri
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Teknik+Informatika+Student;UIN+Malang;Always+learning+new+technologies;Let's+build+something+amazing!" alt="Typing SVG" />
 </div>
@@ -82,8 +81,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nelysafitri&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  
+ 
   ### 💝 Thanks for visiting my profile!
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Happy+Coding!;Always+Learning+%26+Growing;Teknik+Informatika+UIN+Malang+2021" alt="Footer Typing SVG" />
