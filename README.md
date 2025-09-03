@@ -14,6 +14,7 @@
 - 💬 Ask me about **Programming, Software Development, Academic Projects**
 - 📫 How to reach me: **nelymagetan@gmail.com**
 - 📍 **Location**: Malang, East Java, Indonesia
+- 📍 Student Number : 230605110156
 
 <br clear="both">
 
