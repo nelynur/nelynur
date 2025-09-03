@@ -29,12 +29,12 @@
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,laravel,flutter,jquery" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,jquery" alt="Frameworks" />
 </p>
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,xampp" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,Netbeans" alt="Tools" />
 </p>
 
 ### Academic Tools
@@ -69,16 +69,6 @@
 
 </div>
 
-## 📊 Weekly Development Breakdown
-
-```text
-Web Development   ████████████░░░   75%
-Mobile Development ████████░░░░░░   60%
-Database Design   █████████████░   85%
-UI/UX Design      ██████░░░░░░░░   45%
-Machine Learning  ████░░░░░░░░░░   30%
-```
-
 ## 🎓 Academic Journey at UIN Malang
 
 > **"Learning is a journey, not a destination. Every code I write, every project I complete, brings me closer to becoming a skilled software developer."**
@@ -86,7 +76,7 @@ Machine Learning  ████░░░░░░░░░░   30%
 ### 🏛️ **Universitas Islam Negeri Maulana Malik Ibrahim Malang**
 - **Program Studi**: Teknik Informatika
 - **Fakultas**: Sains dan Teknologi
-- **Expected Graduation**: 2025
+- **Expected Graduation**: 2027
 - **Current GPA**: 3.37/4.00
 
 ---
