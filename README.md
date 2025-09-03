@@ -52,7 +52,7 @@
 
 | No | Mata Kuliah | Nama Tugas/Proyek | Deskripsi | Teknologi | Status | Link Drive | Link GitHub |
 |----|-------------|-------------------|-----------|-----------|--------|------------|-------------|
-| 1 | **Pemrograman Web** | Website Blog | Membuat website blog untuk mengelola karya ilmiah atau artikel menggunakan HTML, CSS, JavaScript | `HTML` `CSS` `JavaScript` | ✅ Selesai | [📁 Drive](https://drive.google.com/drive/folders/your-folder-id) | [🔗 Repo](https://github.com/nelysafitri/portfolio-web) |
+| 1 | **Pemrograman Web** | Website Blog | Membuat website blog untuk mengelola karya ilmiah atau artikel menggunakan HTML, CSS, JavaScript | `HTML` `CSS` `JavaScript` | ✅ Selesai | [📁 Drive](https://drive.google.com/drive/folders/your-folder-id) | [🔗 Repo](https://github.com/nelynur/PORTAL_WEB.git) |
 
 
 </div>
