@@ -8,10 +8,7 @@
 ## 🚀 About Me
 
 - 🎓 **Mahasiswa Teknik Informatika** di **Universitas Islam Negeri Maulana Malik Ibrahim Malang**
-- 🔭 Currently working on **Academic Projects & Personal Development**
-- 🌱 I'm currently learning **Web Development, Mobile Development, Database Management**
-- 👯 I'm looking to collaborate on **Student Projects & Open Source**
-- 💬 Ask me about **Programming, Software Development, Academic Projects**
+- 🔭 Fakultas : Sains dan Teknologi
 - 📫 How to reach me: **nelymagetan@gmail.com**
 - 📍 **Location**: Malang, East Java, Indonesia
 - 📍 Student Number : 230605110156
