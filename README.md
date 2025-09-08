@@ -15,31 +15,8 @@
 
 <br clear="both">
 
-## 🛠️ Languages and Tools
 
 <div align="center">
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,php,cpp,html,css" alt="Programming Languages" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,jquery" alt="Frameworks" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,Netbeans" alt="Tools" />
-</p>
-
-### Academic Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,firebase" alt="Academic Tools" />
-</p>
-
-</div>
 
 ## 📚 Academic Projects & Assignments
 
