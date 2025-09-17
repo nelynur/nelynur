@@ -27,7 +27,7 @@
 | No | Mata Kuliah | Topik Tugas/Proyek | Tanggal | Status | Link Drive | Link GitHub |
 |----|-------------|-------------------|----------|--------|------------|-------------|
 | 1 | **Pemrograman Web** | Website Blog | 19 Juni 2025 | ✅ Selesai | [📁 Drive](https://docs.google.com/document/d/1GjMiCmEA2JBYtFb_9aIqDIOkJQMeQa0z/edit?usp=drive_link&ouid=117343189238119532947&rtpof=true&sd=true) | [🔗 Repo](https://github.com/nelynur/PORTAL_WEB.git) |
-| 2 | **Pemrograman Mobile** | Pengenalan Mobile Programming dan Setup Lingkungan (MODUL 1) | 03 September 2025 | Proses | [📁 Drive](https://drive.google.com/drive/folders/your-folder-id) | [🔗 Repo](https://github.com/nelynur/PORTAL_WEB.git) |
+| 2 | **Pemrograman Mobile** | Pengenalan Mobile Programming dan Setup Lingkungan (MODUL 1) | 03 September 2025 | Proses | [📁 Drive](https://docs.google.com/document/d/1GjMiCmEA2JBYtFb_9aIqDIOkJQMeQa0z/edit?usp=drive_link&ouid=117343189238119532947&rtpof=true&sd=true) | [🔗 Repo](https://github.com/nelynur/PORTAL_WEB.git) |
 | 3 | **Pemrograman Mobile** | 	Widget Row dan Column (MODUL 2) | 03 September 2025 | Proses | [📁 Drive](https://drive.google.com/drive/folders/your-folder-id) | [🔗 Repo](https://github.com/nelynur/PORTAL_WEB.git) |
 
 </div>
