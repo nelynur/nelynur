@@ -27,7 +27,7 @@
 | No | Mata Kuliah | Topik Tugas/Proyek | Tanggal | Status | Link Drive | Link GitHub |
 |----|-------------|-------------------|----------|--------|------------|-------------|
 | 1 | **Pemrograman Mobile** | Pengenalan Mobile Programming dan Setup Lingkungan (MODUL 1) | 03 September 2025 | Selesai | [📁 Drive](https://docs.google.com/document/d/1GjMiCmEA2JBYtFb_9aIqDIOkJQMeQa0z/edit?usp=drive_link&ouid=117343189238119532947&rtpof=true&sd=true) | [🔗 Repo](https://github.com/nelynur/MODUL-1.git) |
-| 2 | **Pemrograman Mobile** | 	Widget Row dan Column (MODUL 2) | 03 September 2025 | Proses | [📁 Drive](https://docs.google.com/document/d/1NlFM_2rp2yotg0CkNulXIx09fY-D1wd4/edit?usp=drive_link&ouid=117343189238119532947&rtpof=true&sd=true) | [🔗 Repo](https://github.com/nelynur/PORTAL_WEB.git) |
+| 2 | **Pemrograman Mobile** | 	Widget Row dan Column (MODUL 2) | 03 September 2025 | Proses | [📁 Drive](https://docs.google.com/document/d/1NlFM_2rp2yotg0CkNulXIx09fY-D1wd4/edit?usp=drive_link&ouid=117343189238119532947&rtpof=true&sd=true) | [🔗 Repo](https://github.com/nelynur/MODUL2.git) |
 
 </div>
 
