@@ -31,6 +31,7 @@
 | 3 | **Pemrograman Mobile** | 	Pengaturan Layout Row dan Column di Flutter (MODUL 3) | 10 September 2025 | Selesai | [📁 Drive](https://docs.google.com/document/d/1umnzLJnxSRh5YzlIoCpbnh1-Rdmnm8rm/edit?usp=drive_link&ouid=117343189238119532947&rtpof=true&sd=true) | [🔗 Repo](https://github.com/nelynur/MODUL3.git) |
 | 4 | **Pemrograman Mobile** | 	Widget Flexible dan Expanded (MODUL 4) | 10 September 2025 | Selesai | [📁 Drive](https://docs.google.com/document/d/1D4J5AKDtMBYiqGsvuZhwhjnZnecqG3f6/edit?usp=drive_link&ouid=117343189238119532947&rtpof=true&sd=true) | [🔗 Repo](https://github.com/nelynur/MODUL4.git) |
 | 5 | **Pemrograman Mobile** | Widget SizedBox, Spacer, dan Card (MODUL 5) | 17 September 2025 | Selesai | [📁 Drive](https://drive.google.com/file/d/18nYm6plLZP8RPxiFC4Z7w-9PQidPFAYI/view?usp=drive_link) | [🔗 Repo](https://github.com/nelynur/MODUL5.git) |
+| 6 | **Pemrograman Mobile** | Widget GridView, ListView, GridView.builder, dan ListView.builder (MODUL 6) | 17 September 2025 | Selesai | [📁 Drive](https://drive.google.com/file/d/1Qx-CMeucYh1B-CitX0ujeDvkZG_GS_hA/view?usp=drive_link) | [🔗 Repo 1 ](https://github.com/nelynur/Modul6.git)  [🔗 Repo 2 ](https://github.com/nelynur/Modul6-2.git)|
 </div>
 
 ## 🌐 Connect with Me
