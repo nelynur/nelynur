@@ -32,6 +32,7 @@
 | 4 | **Pemrograman Mobile** | 	Widget Flexible dan Expanded (MODUL 4) | 10 September 2025 | Selesai | [📁 Drive](https://docs.google.com/document/d/1D4J5AKDtMBYiqGsvuZhwhjnZnecqG3f6/edit?usp=drive_link&ouid=117343189238119532947&rtpof=true&sd=true) | [🔗 Repo](https://github.com/nelynur/MODUL4.git) |
 | 5 | **Pemrograman Mobile** | Widget SizedBox, Spacer, dan Card (MODUL 5) | 17 September 2025 | Selesai | [📁 Drive](https://drive.google.com/file/d/18nYm6plLZP8RPxiFC4Z7w-9PQidPFAYI/view?usp=drive_link) | [🔗 Repo](https://github.com/nelynur/MODUL5.git) |
 | 6 | **Pemrograman Mobile** | Widget GridView, ListView, GridView.builder, dan ListView.builder (MODUL 6) | 17 September 2025 | Selesai | [📁 Drive](https://drive.google.com/file/d/1Qx-CMeucYh1B-CitX0ujeDvkZG_GS_hA/view?usp=drive_link) | [🔗 Repo 1 ](https://github.com/nelynur/Modul6.git)  [🔗 Repo 2 ](https://github.com/nelynur/Modul6-2.git)  [🔗 Repo Tugas ](https://github.com/nelynur/Modul6-Tugas.git)|
+| 6 | **Pemrograman Mobile** | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route (MODUL 7) | 24 September 2025 | Selesai | [📁 Drive](https://drive.google.com/file/d/1ytL0-qf86BHvES2t1kzY6a5up5EGxK64/view?usp=drive_link) | [🔗 Repo 1 ](https://github.com/nelynur/Modul7.git)|
 </div>
 
 ## 🌐 Connect with Me
